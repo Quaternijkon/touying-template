@@ -236,7 +236,3 @@ Small clusters allow exhaustive search after locating
   caption:[IVF-HNSW]
 )
 ]
-
-
-
-
